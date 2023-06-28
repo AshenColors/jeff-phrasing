@@ -96,17 +96,17 @@ STARTERS = {
 }
 
 SIMPLE_STARTERS = {
-    "STHA": (" that", None),
-    "STPA": (" if", None),
-    "SWH": (" when", None),
-    "SWHA": (" what", None),
-    "SWHR": (" where", None),
-    "SWHO": (" who", None),
+    "STHA": ("that", None),
+    "STPA": ("if", None),
+    "SWH": ("when", None),
+    "SWHA": ("what", None),
+    "SWHR": ("where", None),
+    "SWHO": ("who", None),
 
-    "STKWH": (" why", None),
+    "STKWH": ("why", None),
 
     # Remove the entry below if you don't want "and" phrases.
-    "SKP": (" and", None),
+    "SKP": ("and", None),
 }
 
 SIMPLE_PRONOUNS = {
